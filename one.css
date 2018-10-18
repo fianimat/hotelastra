@@ -1,0 +1,19 @@
+body {text-align:center;background-color:#2f3136;color:#fff;font-family:Roboto, sans-serif;}
+
+.padded-header {padding:5%;}
+.padded-header p {margin:0px;padding:0px;}
+#page-title {font-family:RobotoLight;}
+#page-subtext {font-family:RobotoBold;line-height:10%;}
+.info-button {border-radius:5px;transition-duration:0.2s;position:inline;margin-right:1%;}
+#dtwo .nomarginp p {margin:0px;padding:0px;}
+
+#done {display:none;padding-left:10%;padding-right:10%;}
+#dtwo {display:none;padding-left:10%;padding-right:10%;}
+#dthree {display:none;padding-left:10%;padding-right:10%;}
+#dfour {display:none;padding-left:10%;padding-right:10%;}
+
+table, th, td {border: 1px solid white;border-collapse: collapse;}
+
+@font-face {font-family:Roboto;src:url('Roboto-Regular.ttf');}
+@font-face {font-family:RobotoLight;src:url('Roboto-Light.ttf');}
+@font-face {font-family:RobotoBold;src:url('Roboto-Bold.ttf');}
