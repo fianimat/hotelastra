@@ -4,7 +4,7 @@ body {text-align:center;background-color:#2f3136;color:#fff;font-family:Roboto, 
 .padded-header p {margin:0px;padding:0px;}
 #page-title {font-family:RobotoLight;}
 #page-subtext {font-family:RobotoBold;line-height:10%;}
-.info-button {border-radius:5px;transition-duration:0.2s;position:inline;margin:5px;}
+.info-button {border-radius:5px;transition-duration:0.2s;position:inline;margin:auto;margin-top:10px;}
 #dtwo .nomarginp p {margin:0px;padding:0px;}
 
 #done {display:none;padding-left:10%;padding-right:10%;}
